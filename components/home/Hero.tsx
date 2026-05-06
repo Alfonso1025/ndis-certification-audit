@@ -5,7 +5,7 @@ import { useLanguage } from "@/context/LanguageContext";
 
 export default function Hero() {
   const { t, tArray } = useLanguage();
-  const trustItems = tArray("hero.trustItems");
+  const trustItems = tArray<string>("hero.trustItems");
 
   return (
     <section
