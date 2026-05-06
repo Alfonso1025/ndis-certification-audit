@@ -70,7 +70,7 @@ export default function Hero() {
               <Fragment key={index}>
                 {index > 0 && (
                   <span aria-hidden="true" className="mx-3 text-white/20 select-none text-sm">
-                    ·
+                    
                   </span>
                 )}
                 <span className="text-xs font-body text-white/55 tracking-wide">

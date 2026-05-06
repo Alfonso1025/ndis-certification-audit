@@ -20,7 +20,7 @@ export type Direction = "ltr" | "rtl";
 // en.json is the source of truth — all other files must match its shape.
 type Messages = typeof en;
 
-const translations: Record<LanguageCode, Messages> = { en, ar, bn, hi };
+const translations = { en, ar, bn, hi } as Record<LanguageCode, Messages>; 
 
 const RTL_LANGUAGES: LanguageCode[] = ["ar"];
 
