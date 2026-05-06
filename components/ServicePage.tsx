@@ -84,7 +84,6 @@ export default function ServicePage({ jsonKey }: Props) {
   const name              = t(`${jsonKey}.name`);
   const tagline           = t(`${jsonKey}.tagline`);
   const lineItem          = t(`${jsonKey}.lineItem`);
-  const registrationGroup = t(`${jsonKey}.registrationGroup`);
   const introBody         = t(`${jsonKey}.intro.body`);
   const introEasyRead     = t(`${jsonKey}.intro.easyRead`);
 
