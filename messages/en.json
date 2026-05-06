@@ -1,0 +1,1571 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "complaint": "Make a Complaint"
+  },
+  "hero": {
+    "heading": "Empowering Lives Through Everyday Support",
+    "subheading": "NDIS registered provider delivering compassionate daily activities and home care across Southwest Sydney, NSW.",
+    "primaryCta": "Our Services",
+    "secondaryCta": "Your Rights",
+    "trustItems": [
+      "NDIS Registered · Group 0107",
+      "Southwest Sydney & Campbelltown",
+      "Daily Personal Activities"
+    ],
+    "interpreter": "Need an interpreter?",
+    "interpreterCta": "Call TIS National 131 450"
+  },
+
+  
+  "services": {
+      "heading": "Our Supports",
+      "subheading": "Every support we deliver falls within NDIS Registration Group 0107 — Assistance with Daily Personal Activities. We work with you and your support coordinator to tailor each service to your individual plan and goals.",
+      "cards": [
+        {
+          "id": "daily-personal-care",
+          "title": "Daily Personal Care",
+          "imageAlt": "A support worker helping a person with daily personal care",
+          "description": "Respectful, person-centred assistance with bathing, showering, dressing, grooming, and personal hygiene. We support your independence by helping only where you need it, at the level you choose.",
+          "easyRead": "We help you wash, dress, and look after yourself each day. You decide how much help you want.",
+          "lineItem": "Support Item 01_011_0107_1_1",
+          "link": "/services/daily-personal-care",
+          "linkLabel": "Learn more about daily personal care"
+        },
+        {
+          "id": "meal-preparation",
+          "title": "Meal Preparation and Eating",
+          "imageAlt": "A support worker helping prepare a nutritious meal",
+          "description": "Support with planning, preparing, and eating nutritious meals that reflect your cultural preferences and dietary needs. Includes grocery assistance and kitchen safety support.",
+          "easyRead": "We help you cook meals you enjoy. We respect the foods that are important to you and your culture.",
+          "lineItem": "Support Item 01_011_0107_1_1",
+          "link": "/services/meal-preparation",
+          "linkLabel": "Learn more about meal preparation"
+        },
+        {
+          "id": "domestic-assistance",
+          "title": "Domestic Assistance",
+          "imageAlt": "A support worker helping maintain a clean and tidy home",
+          "description": "Help maintaining a clean, safe, and comfortable home environment. Includes cleaning, laundry, tidying, and home organisation — so your home supports your health and wellbeing.",
+          "easyRead": "We help keep your home clean and safe. This includes cleaning, washing clothes, and tidying up.",
+          "lineItem": "Support Item 01_019_0107_1_1",
+          "link": "/services/domestic-assistance",
+          "linkLabel": "Learn more about domestic assistance"
+        },
+        {
+          "id": "medication-support",
+          "title": "Medication Support",
+          "imageAlt": "A support worker assisting with medication management",
+          "description": "Trained support workers assist with medication prompting and, where qualified, medication administration. All medication support follows an individual medication management plan developed with your healthcare team.",
+          "easyRead": "We remind you to take your medicine. If needed, a trained worker can help you take it safely.",
+          "lineItem": "Support Item 01_011_0107_1_1",
+          "link": "/services/medication-support",
+          "linkLabel": "Learn more about medication support"
+        }
+      ],
+      "learnMore": "Learn more",
+      "ndisNote": "All supports are delivered in accordance with the NDIS Pricing Arrangements and Price Limits.",
+      "pricingLink": "View our pricing",
+      "coordinatorCta": "Are you a support coordinator or plan manager?",
+      "coordinatorLink": "Referral information for coordinators"
+  },
+  "about": {
+    "heading": "Southwest Sydney's Trusted NDIS Home Care Provider",
+    "subheading": "Locally based in Campbelltown, we support NDIS participants and their families across Southwest Sydney with daily personal activities and home care delivered with dignity, respect, and cultural understanding.",
+
+    "story": {
+      "heading": "Who we are",
+      "body": "We are a registered NDIS provider based in Campbelltown, New South Wales. Our team supports participants across Southwest Sydney — including the Macarthur region, Camden, Wollondilly, and surrounding areas — with daily personal care, meal preparation, domestic assistance, and medication support. We know this community. Many of our participants and support workers share the same streets, schools, and cultural backgrounds. We speak Arabic, Bengali, and Hindi alongside English because that is who our community is."
+    },
+
+    "commitments": {
+      "heading": "Our commitment to you",
+      "subheading": "These are not policies kept in a filing cabinet. They are the standards we are held to — and that you can hold us to.",
+      "items": [
+        {
+          "id": "feedback",
+          "icon": "feedback",
+          "heading": "Your feedback drives our improvement",
+          "body": "We actively seek feedback from participants and families because it is how we get better. Every piece of feedback is read, recorded, and used to improve our services.",
+          "linkLabel": "Share your feedback",
+          "link": "/feedback"
+        },
+        {
+          "id": "complaints",
+          "icon": "complaint",
+          "heading": "Your right to complain is protected",
+          "body": "If something is not right, you have the right to tell us — and the right to take your complaint directly to the NDIS Commission without going through us first. We will never discourage you from doing so.",
+          "linkLabel": "How to make a complaint",
+          "link": "/complaints"
+        },
+        {
+          "id": "privacy",
+          "icon": "privacy",
+          "heading": "Your information stays private",
+          "body": "We collect only the personal information we need to deliver your supports. It is stored securely, never shared without your consent, and you can request access to your records at any time.",
+          "linkLabel": "Read our privacy policy",
+          "link": "/privacy"
+        },
+        {
+          "id": "agreement",
+          "icon": "agreement",
+          "heading": "Make informed decisions",
+          "body": "Your service agreement is a legal document — but it belongs to you, not to us. Before you sign, you have the right to understand every clause. We explain each section in plain language.",
+          "linkLabel": "Understand your agreement",
+          "link": "/service-agreement"
+        }
+      ]
+    },
+
+    "standards": {
+      "heading": "Held to the highest standards",
+      "body": "We are registered and regularly audited against the NDIS Practice Standards and Quality Indicators — the national framework that sets the benchmark for safe, high-quality disability support. Our certification audit covers every aspect of how we deliver services: from how we write your support plan to how we screen every worker before their first shift. We do not just meet these standards — we use them as a practical guide to continuous improvement.",
+      "workerScreening": "All support workers hold a current NDIS Worker Screening Check before beginning any work with participants.",
+      "workerScreeningLink": "Learn about our screening process",
+      "workerScreeningHref": "/worker-screening",
+      "policyLibrary": "Our policy library includes Easy Read versions of every policy — so you can read exactly how we operate and what you can expect from us.",
+      "policyLibraryLink": "Browse our policy library",
+      "policyLibraryHref": "/policies"
+    },
+
+    "commission": {
+      "heading": "You can always contact the NDIS Commission directly",
+      "body": "The NDIS Quality and Safeguards Commission is an independent government body. You do not need our permission to contact them. You can make a complaint, raise a concern, or ask for information at any time.",
+      "phone": "1800 035 544",
+      "phonelabel": "Call the NDIS Commission",
+      "website": "https://www.ndiscommission.gov.au",
+      "websiteLabel": "Visit ndiscommission.gov.au",
+      "tty": "TTY: 133 677"
+    },
+
+    "stats": [
+      { "value": "Group 0107", "label": "NDIS Registration" },
+      { "value": "Southwest Sydney", "label": "Service area" },
+      { "value": "4 languages", "label": "We speak your language" },
+      { "value": "WCAG 2.1 AA", "label": "Accessible website" }
+    ]
+  },
+  
+"contact": {
+  "heading": "Get in touch",
+  "subheading": "We will respond within one business day. If you need urgent support, please call us directly.",
+  "phone": "Call us",
+  "phoneNote": "Prefer to talk? We are available Monday to Friday, 8am to 5pm.",
+
+  "fields": {
+    "name": {
+      "label": "Your name",
+      "placeholder": "First and last name",
+      "required": true,
+      "error": "Please enter your name"
+    },
+    "email": {
+      "label": "Email address",
+      "placeholder": "you@example.com",
+      "required": true,
+      "error": "Please enter a valid email address"
+    },
+    "phone": {
+      "label": "Phone number",
+      "placeholder": "Optional",
+      "required": false,
+      "note": "Optional — include if you would like us to call you"
+    },
+    "serviceType": {
+      "label": "What type of support are you enquiring about?",
+      "required": true,
+      "error": "Please select a support type",
+      "options": [
+        { "value": "", "label": "Select a support type" },
+        { "value": "daily-personal-care", "label": "Daily Personal Care" },
+        { "value": "meal-preparation", "label": "Meal Preparation and Eating" },
+        { "value": "domestic-assistance", "label": "Domestic Assistance" },
+        { "value": "medication-support", "label": "Medication Support" },
+        { "value": "not-sure", "label": "I am not sure yet" },
+        { "value": "coordinator-referral", "label": "Support coordinator or plan manager referral" }
+      ]
+    },
+    "contactMethod": {
+      "label": "How would you prefer us to contact you?",
+      "required": true,
+      "options": [
+        { "value": "email", "label": "Email" },
+        { "value": "phone", "label": "Phone" },
+        { "value": "either", "label": "Either is fine" }
+      ]
+    },
+    "message": {
+      "label": "Your message",
+      "placeholder": "Tell us a little about the support you are looking for, or ask us anything.",
+      "required": true,
+      "error": "Please enter a message",
+      "maxLength": 1000,
+      "hint": "Maximum 1000 characters"
+    }
+  },
+
+  "privacyNotice": "We collect your name and contact details to respond to your enquiry. Your information is stored securely and will not be shared without your consent. See our Privacy Policy.",
+  "privacyLink": "Privacy Policy",
+  "privacyHref": "/privacy",
+
+  "submit": "Send message",
+  "submitting": "Sending...",
+
+  "success": {
+    "heading": "Message received",
+    "body": "Thank you for getting in touch. We will respond within one business day using your preferred contact method.",
+    "note": "If your matter is urgent, please call us directly."
+  },
+
+  "error": {
+    "heading": "Something went wrong",
+    "body": "Your message could not be sent. Please try again or contact us by phone.",
+    "retry": "Try again"
+  },
+
+  "complaintsNote": "Need to make a formal complaint?",
+  "complaintsLink": "Use our dedicated complaints process",
+  "complaintsHref": "/complaints"
+},
+"footer": {
+  "brand": {
+    "tagline": "Compassionate NDIS home care across Southwest Sydney, delivered with dignity and respect.",
+    "address": "Campbelltown, New South Wales 2560",
+    "serviceArea": "Serving the Macarthur region, Camden, Wollondilly and surrounding areas",
+    "ndisGroup2": "Registration Group 0107 — Daily Personal Activities",
+    "ndisGroup": "Registration Group 0107 — Daily Personal Activities"
+  },
+
+  "columns": {
+    "services": {
+      "heading": "Our Services",
+      "links": [
+        { "label": "Daily Personal Care", "href": "/services/daily-personal-care" },
+        { "label": "Meal Preparation and Eating", "href": "/services/meal-preparation" },
+        { "label": "Domestic Assistance", "href": "/services/domestic-assistance" },
+        { "label": "Medication Support", "href": "/services/medication-support" }
+      ]
+    },
+
+    "rights": {
+      "heading": "Your Rights",
+      "links": [
+        { "label": "Your Rights as a Participant", "href": "/rights" },
+        { "label": "How to Make a Complaint", "href": "/complaints" },
+        { "label": "Complaints Form", "href": "/complaints/form" },
+        { "label": "Share Feedback", "href": "/feedback" },
+        { "label": "Privacy Policy", "href": "/privacy" },
+        { "label": "Service Agreement Explained", "href": "/service-agreement" },
+        { "label": "Worker Screening", "href": "/worker-screening" }
+      ]
+    },
+
+    "contact": {
+      "heading": "Get Help",
+      "phoneLabel": "Call us",
+      "phoneHours": "Monday to Friday, 8am to 5pm",
+      "afterHours": "For urgent after-hours support contact your on-call worker or call 000 in an emergency.",
+      "emailLabel": "Email us",
+
+      "interpreter": {
+        "heading": "Need an interpreter?",
+        "body": "Call TIS National on 131 450 — free interpreting service available.",
+        "phone": "131 450",
+        "phoneLabel": "Call TIS National"
+      },
+
+      "commission": {
+        "heading": "NDIS Commission",
+        "body": "Contact the NDIS Quality and Safeguards Commission directly at any time.",
+        "phone": "1800 035 544",
+        "phoneLabel": "Call the NDIS Commission",
+        "href": "https://www.ndiscommission.gov.au",
+        "linkLabel": "ndiscommission.gov.au"
+      }
+    }
+  },
+
+  "bottom": {
+    "copyright": "© {year} {name}. All rights reserved.",
+    "wcag": "This website meets WCAG 2.1 Level AA accessibility standards.",
+    "privacy": "Privacy Policy",
+    "privacyHref": "/privacy",
+    "acknowledgement": "We acknowledge the Dharawal people as the Traditional Custodians of the land on which we operate, and pay our respects to Elders past, present and emerging."
+  }
+},
+"rightsPage": {
+  "meta": {
+    "title": "Your Rights as an NDIS Participant",
+    "description": "Your rights as an NDIS participant receiving supports from our service. Every right listed here is guaranteed under the NDIS Practice Standards."
+  },
+
+  "heading": "Your Rights as an NDIS Participant",
+  "subheading": "These rights are guaranteed under the NDIS Practice Standards and Quality Indicators. No provider can take them away. We are committed to upholding every one of them.",
+  "lastReviewed": "Last reviewed: May 2026",
+  "nextReview": "Next review due: May 2027",
+  "standard": "Grounded in the NDIS Practice Standards and Quality Indicators (v4, November 2021) and the NDIS Code of Conduct.",
+
+  "intro": {
+    "body": "As an NDIS participant receiving supports from us, you have rights that are protected by law. This page explains each of those rights in plain language. If you feel any of these rights have not been respected, you can make a complaint to us or directly to the NDIS Quality and Safeguards Commission — without our involvement.",
+    "easyRead": "You have rights. We must follow them. If we do not, you can tell someone."
+  },
+
+  "rights": [
+    {
+      "id": "dignity",
+      "heading": "The right to dignity and respect",
+      "body": "You have the right to be treated with dignity and respect at all times. This means your support workers speak to you respectfully, maintain your privacy during personal care, and never make you feel ashamed or embarrassed about needing support.",
+      "easyRead": "We must always treat you with respect. We must be kind and polite. We must keep your personal care private.",
+      "basis": "NDIS Practice Standards, Outcome 1.3 — Privacy and Dignity. NDIS Code of Conduct, s.4(1)."
+    },
+    {
+      "id": "decisions",
+      "heading": "The right to make your own decisions",
+      "body": "You have the right to make decisions about your own life and your own supports — including decisions others might disagree with. We will give you the information you need to make informed choices, and we will respect the decisions you make. If you need support to make a decision, we will help you in the way that works best for you.",
+      "easyRead": "You can make your own choices. We will give you the information you need. We will respect what you decide.",
+      "basis": "NDIS Practice Standards, Outcome 1.4 — Independence and Informed Choice, QI 1.4.1."
+    },
+    {
+      "id": "risk",
+      "heading": "The right to take positive risks",
+      "body": "You have the right to try new things and take reasonable risks as part of living your life. A provider cannot refuse to support you in something simply because it carries some risk. We will work with you to understand the risks, put sensible safeguards in place if needed, and support your choice.",
+      "easyRead": "You can try new things, even if they have some risk. We will talk with you about how to do it safely. We will support your choice.",
+      "basis": "NDIS Practice Standards, Outcome 1.4 — Independence and Informed Choice, QI 1.4.3."
+    },
+    {
+      "id": "privacy",
+      "heading": "The right to privacy and confidentiality",
+      "body": "Your personal information belongs to you. We collect only what we need to deliver your supports. We store it securely, we do not share it without your consent except where required by law, and you can ask to see or correct your records at any time.",
+      "easyRead": "Your personal information is private. We keep it safe. We will not tell other people without asking you first. You can ask to see your information at any time.",
+      "linkLabel": "Read our Privacy Policy",
+      "link": "/privacy",
+      "basis": "NDIS Practice Standards, Outcome 1.3 — Privacy and Dignity, QI 1.3.1–1.3.2. Privacy Act 1988 (Cth), Australian Privacy Principles."
+    },
+    {
+      "id": "culture",
+      "heading": "The right to cultural safety",
+      "body": "You have the right to receive supports that respect your cultural background, language, religion, and personal values. This includes the right to request a support worker who shares your language or cultural background where possible, and to have your dietary and religious practices respected in your home.",
+      "easyRead": "We respect your culture, language and religion. You can ask for a worker who speaks your language. We respect the food and customs that are important to you.",
+      "basis": "NDIS Practice Standards, Outcome 1.2 — Individual Values and Beliefs, QI 1.2.1."
+    },
+    {
+      "id": "complaint",
+      "heading": "The right to make a complaint",
+      "body": "You have the right to make a complaint about any aspect of your supports — and making a complaint will never affect the quality of care you receive. You can complain to us directly, or you can go straight to the NDIS Quality and Safeguards Commission without telling us first. You can also make a complaint anonymously.",
+      "easyRead": "If something is wrong, you can tell us. Making a complaint will not change how we care for you. You can also complain to the NDIS Commission without telling us.",
+      "linkLabel": "How to make a complaint",
+      "link": "/complaints",
+      "basis": "NDIS Act 2013, s.73W. NDIS Complaints Management and Resolution Rules 2018. NDIS Practice Standards, Outcome 1.5 — VANED, QI 1.5.5."
+    },
+    {
+      "id": "advocate",
+      "heading": "The right to have an advocate",
+      "body": "You have the right to have a person of your choice support you in any interaction with us — including meetings, plan reviews, and complaint processes. This person is called an advocate. They can be a family member, a friend, or an independent disability advocate. You do not need our permission to bring an advocate.",
+      "easyRead": "You can bring someone you trust to any meeting with us. This person can speak for you or help you speak. You do not need to ask us first.",
+      "linkLabel": "Find an independent advocate",
+      "link": "https://www.adacas.org.au",
+      "linkExternal": true,
+      "basis": "NDIS Practice Standards, Outcome 1.4 — Independence and Informed Choice, QI 1.4.2."
+    },
+    {
+      "id": "exit",
+      "heading": "The right to leave our service",
+      "body": "You can choose to stop receiving supports from us at any time. Your service agreement sets out the notice period — usually five business days. When you leave, we will provide all your personal documentation and support a smooth handover to your new provider so there is no gap in your care.",
+      "easyRead": "You can stop using our service whenever you want. We will help you move to a new provider. We will give you all your documents.",
+      "basis": "NDIS Practice Standards, Outcome 4.4 — Transitions to and from the Provider. NDIS (Provider Registration and Practice Standards) Rules 2018, r.8."
+    }
+  ],
+
+  "ifNotRespected": {
+    "heading": "What to do if your rights are not respected",
+    "body": "If you feel any of these rights have been breached, you have options. You can speak to us directly, make a formal complaint through our complaints process, or contact the NDIS Commission independently.",
+    "complaintsLinkLabel": "Make a complaint",
+    "complaintsHref": "/complaints",
+    "commission": {
+      "body": "The NDIS Quality and Safeguards Commission is an independent government body. You can contact them at any time without our involvement.",
+      "phone": "1800 035 544",
+      "phoneLabel": "Call the NDIS Commission",
+      "href": "https://www.ndiscommission.gov.au",
+      "linkLabel": "ndiscommission.gov.au",
+      "tty": "TTY: 133 677"
+    }
+  },
+
+  "advocacy": {
+    "heading": "Getting support to understand your rights",
+    "body": "If you would like independent support to understand your rights or navigate a concern, a disability advocate can help — for free. Advocacy services are independent of providers and work only for you.",
+    "links": [
+      {
+        "label": "Disability Advocacy NSW",
+        "href": "https://www.disabilityadvocacynsw.org.au",
+        "external": true
+      },
+      {
+        "label": "ADACAS — Advocacy for Disability Access",
+        "href": "https://www.adacas.org.au",
+        "external": true
+      },
+      {
+        "label": "National Disability Advocacy Program",
+        "href": "https://www.dss.gov.au/disability-advocacy",
+        "external": true
+      }
+    ]
+  },
+
+  "easyReadToggle": {
+    "activate": "Easy Read",
+    "deactivate": "Standard view",
+    "tooltip": "Switch to simplified language with shorter sentences"
+  }
+},
+"complaintsPage": {
+  "meta": {
+    "title": "How to Make a Complaint",
+    "description": "How to make a complaint about your NDIS supports. You can complain to us or directly to the NDIS Commission at any time."
+  },
+
+  "heading": "How to Make a Complaint",
+  "subheading": "Making a complaint is your right. It will never affect the quality of support you receive from us.",
+
+  "safetyStatement": {
+    "heading": "You are safe to speak up",
+    "body": "We take every complaint seriously. If something is not right — about your supports, about a worker, or about how we have treated you — we want to know. Speaking up helps us improve and ensures you receive the care you deserve. You can complain anonymously if you prefer."
+  },
+
+  "commissionFirst": {
+    "heading": "You do not have to come to us first",
+    "body": "You have the right to contact the NDIS Quality and Safeguards Commission directly at any time — without telling us, without going through our process first, and without any consequences to your supports.",
+    "phone": "1800 035 544",
+    "phoneLabel": "Call the NDIS Commission",
+    "href": "https://www.ndiscommission.gov.au",
+    "linkLabel": "ndiscommission.gov.au",
+    "tty": "TTY: 133 677",
+    "hours": "Monday to Friday, 9am to 5pm"
+  },
+
+  "formCta": {
+    "heading": "Ready to make a complaint to us?",
+    "body": "Use our complaints form — you can submit anonymously if you choose.",
+    "linkLabel": "Go to the complaints form",
+    "href": "/complaints/form"
+  },
+
+  "process": {
+    "heading": "Our complaints process — step by step",
+    "subheading": "If you choose to make a complaint to us, here is exactly what happens.",
+    "steps": [
+      {
+        "number": 1,
+        "heading": "You submit your complaint",
+        "body": "You can submit a complaint using our online form, by phone, by email, or in person. You do not have to give your name. You do not have to explain yourself in detail — a brief description of what happened is enough to get started.",
+        "detail": "Phone, email and form links are at the bottom of this page."
+      },
+      {
+        "number": 2,
+        "heading": "We acknowledge your complaint",
+        "body": "We will contact you within two business days to confirm we have received your complaint and to let you know who is handling it. If you made an anonymous complaint, we will post a general acknowledgement on our feedback register.",
+        "timeframe": "Within 2 business days"
+      },
+      {
+        "number": 3,
+        "heading": "We investigate",
+        "body": "The person handling your complaint — who was not involved in the incident — will look into what happened. They may speak with relevant staff members, review records, and in some cases contact you for more information.",
+        "timeframe": "Investigation begins within 5 business days"
+      },
+      {
+        "number": 4,
+        "heading": "We tell you the outcome",
+        "body": "We will contact you with the outcome of the investigation and what we are doing about it. Most complaints are resolved within 28 days. Complex complaints may take longer — we will keep you informed of progress.",
+        "timeframe": "Most complaints resolved within 28 days"
+      },
+      {
+        "number": 5,
+        "heading": "If you are not satisfied",
+        "body": "If you are not happy with how we handled your complaint or the outcome, you can escalate it to the NDIS Quality and Safeguards Commission. You can do this at any stage — you do not have to wait for our process to finish.",
+        "linkLabel": "Contact the NDIS Commission",
+        "href": "https://www.ndiscommission.gov.au"
+      }
+    ]
+  },
+
+  "faq": {
+    "heading": "Common questions",
+    "items": [
+      {
+        "question": "Can I make an anonymous complaint?",
+        "answer": "Yes. You do not have to give your name or contact details. If you make an anonymous complaint we will still investigate it, though our ability to follow up with you or tell you the outcome will be limited."
+      },
+      {
+        "question": "Will making a complaint affect my supports?",
+        "answer": "No. Making a complaint will never affect the supports you receive from us. This is a legal requirement under the NDIS Code of Conduct and our own policy. If you ever feel your supports have been affected because you made a complaint, contact the NDIS Commission immediately."
+      },
+      {
+        "question": "Can someone help me make a complaint?",
+        "answer": "Yes. You can ask a family member, friend, or independent disability advocate to help you. An advocate can make the complaint on your behalf, attend meetings with you, or simply be there for support. You do not need our permission to involve an advocate."
+      },
+      {
+        "question": "What can I make a complaint about?",
+        "answer": "Anything relating to your supports or how you have been treated. This includes the behaviour of a support worker, the quality or timing of supports, how your information has been handled, how a previous complaint was managed, or any other concern about our service."
+      },
+      {
+        "question": "How long does the process take?",
+        "answer": "We aim to acknowledge all complaints within two business days and resolve most within 28 days. Complex complaints involving investigations or multiple parties may take longer. We will always keep you informed of progress."
+      },
+      {
+        "question": "What if my complaint is about an emergency or immediate safety risk?",
+        "answer": "If you or someone else is in immediate danger, call 000. If there is a serious safety concern about a support worker or provider, contact the NDIS Commission on 1800 035 544 — they can take urgent action that we cannot."
+      }
+    ]
+  },
+
+  "waysToComplain": {
+    "heading": "Ways to make a complaint",
+    "items": [
+      {
+        "method": "Online form",
+        "detail": "Complete our complaints form online — available 24 hours, supports anonymous submissions.",
+        "linkLabel": "Go to complaints form",
+        "href": "/complaints/form"
+      },
+      {
+        "method": "Phone",
+        "detail": "1800 227 337 — Monday to Friday, 8am to 5pm. After hours: leave a message and we will call back the next business day."
+      },
+      {
+        "method": "Email",
+        "detail": "hello@carefirst.com.au — we respond to all emails within two business days."
+      },
+      {
+        "method": "In person",
+        "detail": "You can speak with any staff member or request a meeting with our Complaints Officer. Contact us to arrange a time."
+      },
+      {
+        "method": "In writing",
+        "detail": "Post or deliver a written complaint to our address: 123 Care Street, Campbelltown NSW 2560."
+      }
+    ]
+  },
+
+  "commissionBottom": {
+    "heading": "NDIS Quality and Safeguards Commission",
+    "body": "The Commission is an independent government body that oversees NDIS providers. If you are not satisfied with our response, or if you prefer to go directly to them, contact the Commission at any time.",
+    "phone": "1800 035 544",
+    "phoneLabel": "Call the NDIS Commission",
+    "href": "https://www.ndiscommission.gov.au",
+    "linkLabel": "ndiscommission.gov.au",
+    "tty": "TTY: 133 677",
+    "makeComplaintLink": "https://www.ndiscommission.gov.au/participants/complaints",
+    "makeComplaintLabel": "Make a complaint on the NDIS Commission website"
+  },
+
+  "advocacy": {
+    "heading": "Need help navigating this process?",
+    "body": "A free independent disability advocate can help you make a complaint, understand your rights, or prepare for a meeting. Advocates work only for you — not for providers.",
+    "links": [
+      {
+        "label": "Disability Advocacy NSW",
+        "href": "https://www.disabilityadvocacynsw.org.au",
+        "external": true
+      },
+      {
+        "label": "ADACAS — Advocacy for Disability Access",
+        "href": "https://www.adacas.org.au",
+        "external": true
+      }
+    ]
+  }
+},
+"complaintsForm": {
+  "meta": {
+    "title": "Make a Complaint",
+    "description": "Submit a complaint about your NDIS supports. You can remain anonymous. Your complaint will not affect your services."
+  },
+
+  "heading": "Make a Complaint",
+  "subheading": "You can remain anonymous. Making a complaint will never affect your supports.",
+
+  "commissionRedirect": {
+    "heading": "You can also go directly to the NDIS Commission",
+    "body": "You do not need to use this form. You can contact the NDIS Quality and Safeguards Commission independently at any time.",
+    "phone": "1800 035 544",
+    "phoneLabel": "Call the NDIS Commission",
+    "href": "https://www.ndiscommission.gov.au/participants/complaints",
+    "linkLabel": "Make a complaint on the NDIS Commission website",
+    "tty": "TTY: 133 677"
+  },
+
+  "anonymousNote": {
+    "heading": "Submitting anonymously",
+    "body": "All contact fields below are optional. If you do not provide your name or contact details we will still investigate your complaint — but we will not be able to update you on the outcome."
+  },
+
+  "fields": {
+    "name": {
+      "label": "Your name",
+      "placeholder": "Optional",
+      "required": false,
+      "hint": "Leave blank to remain anonymous"
+    },
+    "relationship": {
+      "label": "Your relationship to the participant",
+      "required": false,
+      "hint": "Optional — helps us understand the context",
+      "options": [
+        { "value": "", "label": "Select if you wish" },
+        { "value": "self", "label": "I am the participant" },
+        { "value": "family", "label": "Family member or carer" },
+        { "value": "advocate", "label": "Independent advocate" },
+        { "value": "coordinator", "label": "Support coordinator" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "contactMethod": {
+      "label": "How would you like us to respond?",
+      "required": false,
+      "hint": "Optional — only needed if you want a response",
+      "options": [
+        { "value": "", "label": "No response needed or anonymous" },
+        { "value": "email", "label": "Email" },
+        { "value": "phone", "label": "Phone call" },
+        { "value": "letter", "label": "Written letter" }
+      ]
+    },
+    "email": {
+      "label": "Email address",
+      "placeholder": "Optional",
+      "required": false,
+      "showWhen": "contactMethod === email",
+      "error": "Please enter a valid email address"
+    },
+    "phone": {
+      "label": "Phone number",
+      "placeholder": "Optional",
+      "required": false,
+      "showWhen": "contactMethod === phone"
+    },
+    "serviceType": {
+      "label": "Which service does this complaint relate to?",
+      "required": false,
+      "hint": "Optional",
+      "options": [
+        { "value": "", "label": "Select if known" },
+        { "value": "daily-personal-care", "label": "Daily Personal Care" },
+        { "value": "meal-preparation", "label": "Meal Preparation and Eating" },
+        { "value": "domestic-assistance", "label": "Domestic Assistance" },
+        { "value": "medication-support", "label": "Medication Support" },
+        { "value": "general", "label": "General — not service specific" }
+      ]
+    },
+    "incidentDate": {
+      "label": "When did this happen?",
+      "required": false,
+      "hint": "Optional — an approximate date is fine",
+      "type": "date"
+    },
+    "description": {
+      "label": "What happened?",
+      "placeholder": "Describe what happened in your own words. There is no wrong way to write this.",
+      "required": true,
+      "error": "Please describe what happened — this is the only required field",
+      "maxLength": 2000,
+      "hint": "Maximum 2000 characters. You do not need to include names if you prefer not to."
+    },
+    "outcome": {
+      "label": "What would you like to happen?",
+      "placeholder": "Optional — tell us what outcome you are hoping for, if you wish.",
+      "required": false,
+      "maxLength": 500,
+      "hint": "Optional — maximum 500 characters"
+    }
+  },
+
+  "privacyNotice": "We collect information from this form to investigate your complaint and improve our services. If you provide contact details, we will use them only to respond to your complaint. Information is stored securely for a minimum of seven years as required by the NDIS. You may request access to your information at any time.",
+  "privacyLink": "Privacy Policy",
+  "privacyHref": "/privacy",
+
+  "submit": "Submit complaint",
+  "submitting": "Submitting...",
+
+  "success": {
+    "heading": "Your complaint has been received",
+    "reference": "Your reference number is:",
+    "body": "Thank you for taking the time to tell us. If you provided contact details, we will be in touch within two business days. If you submitted anonymously, please keep your reference number in case you need to follow up.",
+    "commissionNote": "You can still contact the NDIS Commission at any time if you prefer independent oversight.",
+    "commissionPhone": "1800 035 544"
+  },
+
+  "error": {
+    "heading": "Your complaint could not be submitted",
+    "body": "Something went wrong. Please try again, or contact us directly by phone or email.",
+    "retry": "Try again"
+  }
+},
+"feedbackPage": {
+  "meta": {
+    "title": "Share Your Feedback",
+    "description": "Share your experience with our NDIS home care services. Your feedback directly improves the supports we deliver."
+  },
+
+  "heading": "Share Your Feedback",
+  "subheading": "Your experience matters — and your feedback changes things.",
+
+  "commitment": {
+    "heading": "How your feedback is handled",
+    "intro": "Every piece of feedback — positive, negative, or somewhere in between — enters our quality management system the same day it arrives. This process is required under NDIS Practice Standards, Outcome 2.3 — Quality Management. It is audited.",
+    "process": {
+      "steps": [
+        {
+          "id": "logged",
+          "heading": "Logged the same day",
+          "body": "Entered in our Continuous Improvement Register with a date, a category, and your anonymised description."
+        },
+        {
+          "id": "reviewed",
+          "heading": "Reviewed at our monthly quality meeting",
+          "body": "Reviewed alongside all other feedback received that month."
+        }
+      ],
+      "forkLabel": "Two possible outcomes:",
+      "primaryPath": {
+        "id": "action",
+        "heading": "Corrective action raised",
+        "body": "An action is created, assigned to a responsible person, and given a due date."
+      },
+      "alternativePath": {
+        "id": "no-action",
+        "heading": "Decision documented instead",
+        "body": "If no action is needed, the decision and reason are recorded. Nothing is left unexamined."
+      },
+      "conclusion": {
+        "id": "patterns",
+        "heading": "Patterns analysed quarterly",
+        "body": "Patterns across all feedback are analysed and reported to our leadership team."
+      }
+    },
+    "policyNote": "For the full policy, see our",
+    "policyLink": "Continuous improvement policy",
+    "policyHref": "/policies/continuous-improvement"
+  },
+
+  "formHeading": "Tell us about your experience",
+
+  "fields": {
+    "rating": {
+      "label": "Overall, how would you rate your experience with us?",
+      "required": true,
+      "error": "Please select a rating",
+      "options": [
+        { "value": 5, "label": "Excellent", "description": "Everything was as it should be or better" },
+        { "value": 4, "label": "Good", "description": "Generally positive with minor issues" },
+        { "value": 3, "label": "Acceptable", "description": "Adequate but there is room to improve" },
+        { "value": 2, "label": "Poor", "description": "There were significant problems" },
+        { "value": 1, "label": "Very poor", "description": "The experience fell well short of what I expected" }
+      ]
+    },
+    "category": {
+      "label": "What does your feedback relate to?",
+      "required": true,
+      "error": "Please select a category",
+      "hint": "Select the option that best fits — you can add detail in the text field below",
+      "options": [
+        { "value": "", "label": "Select a category" },
+        { "value": "support-worker", "label": "A support worker" },
+        { "value": "service-quality", "label": "Quality of the support delivered" },
+        { "value": "communication", "label": "Communication from our office" },
+        { "value": "scheduling", "label": "Scheduling or punctuality" },
+        { "value": "support-plan", "label": "My support plan or goals" },
+        { "value": "cultural-safety", "label": "Cultural safety or language support" },
+        { "value": "complaints-handling", "label": "How a previous complaint was handled" },
+        { "value": "general", "label": "General — none of the above" }
+      ]
+    },
+    "service": {
+      "label": "Which service does this relate to?",
+      "required": false,
+      "hint": "Optional",
+      "options": [
+        { "value": "", "label": "Select if relevant" },
+        { "value": "daily-personal-care", "label": "Daily Personal Care" },
+        { "value": "meal-preparation", "label": "Meal Preparation and Eating" },
+        { "value": "domestic-assistance", "label": "Domestic Assistance" },
+        { "value": "medication-support", "label": "Medication Support" },
+        { "value": "general", "label": "Not service specific" }
+      ]
+    },
+    "feedback": {
+      "label": "Tell us more",
+      "placeholder": "Share as much or as little as you like. Specific details — what happened, when, who was involved — help us act on your feedback more effectively.",
+      "required": false,
+      "hint": "Optional — maximum 1500 characters",
+      "maxLength": 1500
+    },
+    "highlight": {
+      "label": "Is there anything specific you would like us to keep doing?",
+      "placeholder": "Optional — if something worked well, tell us so we can protect it.",
+      "required": false,
+      "hint": "Optional — maximum 500 characters",
+      "maxLength": 500
+    },
+    "followUp": {
+      "label": "Would you like us to follow up with you about this feedback?",
+      "required": false,
+      "options": [
+        { "value": "no", "label": "No — I am happy for this to be used anonymously" },
+        { "value": "yes", "label": "Yes — I would like to hear what happens" }
+      ]
+    },
+    "name": {
+      "label": "Your name",
+      "placeholder": "Optional",
+      "required": false,
+      "showWhen": "followUp === yes",
+      "hint": "Only needed if you would like us to follow up"
+    },
+    "contact": {
+      "label": "Best way to reach you",
+      "placeholder": "Phone number or email address",
+      "required": false,
+      "showWhen": "followUp === yes",
+      "hint": "We will only use this to respond to your feedback"
+    }
+  },
+
+  "privacyNotice": "Feedback is stored securely and used only to improve our services. If you choose to remain anonymous, no identifying information is collected. If you provide contact details for follow-up, they are used only for that purpose and stored for a maximum of twelve months. See our Privacy Policy.",
+  "privacyLink": "Privacy Policy",
+  "privacyHref": "/privacy",
+
+  "submit": "Submit feedback",
+  "submitting": "Submitting...",
+
+  "success": {
+    "heading": "Thank you — your feedback has been received",
+    "body": "It has been logged in our quality management system and will be reviewed at our next monthly quality meeting. If you asked for a follow-up, we will be in touch.",
+    "improvementNote": "Want to see the kind of improvements feedback has driven? We publish a summary of changes made as a result of participant feedback in our annual quality report.",
+    "anotherLabel": "Submit another response",
+    "homeLabel": "Back to home"
+  },
+
+  "error": {
+    "heading": "Your feedback could not be submitted",
+    "body": "Something went wrong. Please try again. If the problem continues, you can email your feedback directly to us.",
+    "retry": "Try again"
+  },
+
+  "complaintNote": {
+    "body": "If your feedback is about something that went seriously wrong, you may want to use our formal complaints process instead.",
+    "linkLabel": "Make a formal complaint",
+    "href": "/complaints"
+  }
+},
+"policies": {
+  "heading": "Policy Library",
+  "subheading": "Our policies are the documented standards that govern how we operate. They are reviewed regularly, held to the NDIS Practice Standards, and available to every participant, family member, and support coordinator.",
+  "lastUpdatedLabel": "Last reviewed",
+  "nextReviewLabel": "Next review due",
+  "versionLabel": "Version",
+  "easyReadBadge": "Easy Read available",
+  "readPolicyLabel": "Read policy",
+  "items": [
+    {
+      "slug": "privacy",
+      "name": "Privacy Policy",
+      "description": "How we collect, store, protect, and manage your personal information — and your rights to access and correct it.",
+      "version": "1.0",
+      "lastReviewed": "2026-05-01",
+      "nextReviewDue": "2027-05-01",
+      "category": "Participant Rights",
+      "easyRead": true,
+      "href": "/policies/privacy"
+    },
+    {
+      "slug": "complaints-handling",
+      "name": "Complaints Handling Policy",
+      "description": "How we receive, investigate, and resolve complaints — and how we use them to improve our services.",
+      "version": "1.0",
+      "lastReviewed": "2026-05-01",
+      "nextReviewDue": "2027-05-01",
+      "category": "Participant Rights",
+      "easyRead": true,
+      "href": "/policies/complaints-handling"
+    },
+    {
+      "slug": "feedback-and-continuous-improvement",
+      "name": "Feedback and Continuous Improvement Policy",
+      "description": "How participant feedback enters our quality management system and drives documented improvements to our services.",
+      "version": "1.0",
+      "lastReviewed": "2026-05-01",
+      "nextReviewDue": "2027-05-01",
+      "category": "Governance",
+      "easyRead": true,
+      "href": "/policies/feedback-and-continuous-improvement"
+    },
+    {
+      "slug": "worker-screening",
+      "name": "Worker Screening Policy",
+      "description": "Our commitment to ensuring every support worker holds a valid NDIS Worker Screening Check before working with participants.",
+      "version": "1.0",
+      "lastReviewed": "2026-05-01",
+      "nextReviewDue": "2027-05-01",
+      "category": "Workforce",
+      "easyRead": false,
+      "href": "/policies/worker-screening"
+    },
+    {
+      "slug": "service-delivery",
+      "name": "Service Delivery Policy",
+      "description": "How we assess, plan, deliver, and review your supports — including what you can expect from us at every stage.",
+      "version": "1.0",
+      "lastReviewed": "2026-05-01",
+      "nextReviewDue": "2027-05-01",
+      "category": "Service Delivery",
+      "easyRead": true,
+      "href": "/policies/service-delivery"
+    }
+  ]
+},
+"privacyPolicy": {
+  "slug": "privacy",
+  "name": "Privacy Policy",
+  "version": "1.0",
+  "lastReviewed": "2026-05-01",
+  "nextReviewDue": "2027-05-01",
+  "category": "Participant Rights",
+  "easyRead": true,
+  "legalBasis": "Privacy Act 1988 (Cth), Australian Privacy Principles. NDIS Practice Standards v4, Outcome 1.3 — Privacy and Dignity.",
+
+  "heading": "Privacy Policy",
+  "subheading": "How we collect, store, protect, and manage your personal information.",
+  "intro": {
+    "body": "We are committed to protecting your privacy. This policy explains what personal information we collect, why we collect it, how we store and protect it, and your rights in relation to that information. This policy applies to all participants, families, support coordinators, and workers whose information we hold.",
+    "easyRead": "This page explains how we look after your personal information. Your information belongs to you. We keep it safe."
+  },
+
+  "sections": [
+    {
+      "heading": "What information we collect",
+      "body": "We collect personal information that is necessary to deliver NDIS supports to you. This includes your name, contact details, date of birth, NDIS number, support plan details, health and medical information relevant to your supports, emergency contact details, and cultural and communication preferences. We collect this information directly from you, your nominee, or your support coordinator. We do not collect more information than we need.",
+      "easyRead": "We collect information about you so we can help you properly. This includes your name, phone number, and health information. We only collect what we need."
+    },
+    {
+      "heading": "Why we collect it",
+      "body": "We collect your personal information to deliver the supports in your NDIS plan, to communicate with you and your support team, to meet our obligations as a registered NDIS provider, to investigate complaints or incidents, and to improve the quality of our services. We do not collect your information for marketing purposes.",
+      "easyRead": "We use your information to give you the right support. We use it to talk to you and your team. We do not use it to sell you things."
+    },
+    {
+      "heading": "How we store and protect your information",
+      "body": "Your information is stored in a secure, password-protected system hosted on Australian servers. Access is restricted to staff who need it to deliver your supports. Paper records are stored in locked cabinets. We train all staff on their privacy obligations before they begin working with participants. We conduct regular reviews of our information security practices.",
+      "easyRead": "We keep your information in a secure computer system in Australia. Only the workers who help you can see it. Paper files are kept locked up."
+    },
+    {
+      "heading": "Who we share your information with",
+      "body": "We do not share your personal information without your consent, except where we are required to by law. We may share information with other members of your support team — such as your support coordinator or allied health providers — with your consent. We may be required to share information with the NDIS Quality and Safeguards Commission in the event of a reportable incident. We will always tell you when this occurs unless we are legally prevented from doing so.",
+      "easyRead": "We do not share your information without asking you first. Sometimes the law requires us to share it. We will tell you when this happens."
+    },
+    {
+      "heading": "How long we keep your information",
+      "body": "We retain participant records for a minimum of seven years after the last service delivery, or until you turn 25 years of age if you were a minor when you received supports — whichever is later. After this period, records are securely destroyed. Financial records are retained for seven years as required by Australian tax law.",
+      "easyRead": "We keep your records for at least seven years. After that, we delete them safely."
+    },
+    {
+      "heading": "Your rights",
+      "body": "You have the right to access the personal information we hold about you at any time. You have the right to ask us to correct information that is inaccurate. You have the right to make a privacy complaint — to us directly, or to the Office of the Australian Information Commissioner (OAIC) at oaic.gov.au or on 1300 363 992.",
+      "easyRead": "You can ask to see your information at any time. You can ask us to fix mistakes. If you are not happy with how we handle your information, you can make a complaint."
+    },
+    {
+      "heading": "How to contact us about privacy",
+      "body": "If you have a question about this policy or want to access your information, contact us by phone at 1800 227 337, by email at hello@carefirst.com.au, or in writing to 123 Care Street, Campbelltown NSW 2560. We will respond within five business days.",
+      "easyRead": "Call us, email us, or write to us if you have questions about your information. We will get back to you within five business days."
+    }
+  ]
+},"complaintsPolicy": {
+  "slug": "complaints-handling",
+  "name": "Complaints Handling Policy",
+  "version": "1.0",
+  "lastReviewed": "2026-05-01",
+  "nextReviewDue": "2027-05-01",
+  "category": "Participant Rights",
+  "easyRead": true,
+  "legalBasis": "NDIS Complaints Management and Resolution Rules 2018. NDIS Practice Standards v4, Outcome 1.5 — VANED, QI 1.5.5. NDIS Act 2013, s.73W.",
+
+  "heading": "Complaints Handling Policy",
+  "subheading": "How we receive, investigate, and resolve complaints — and how we use them to improve.",
+  "intro": {
+    "body": "We are committed to a complaints process that is accessible, fair, transparent, and free from any consequence to the participant making the complaint. This policy describes our obligations, our process, and your rights at every stage. Complaints are treated as valuable information that helps us improve — not as problems to be managed.",
+    "easyRead": "If something is wrong, you can tell us. This page explains what we will do when you make a complaint. Making a complaint will not change how we care for you."
+  },
+
+  "sections": [
+    {
+      "heading": "Our commitment",
+      "body": "We will never discourage a participant or their representative from making a complaint. We will never take adverse action against a participant because they have made a complaint. Every complaint will be taken seriously, investigated fairly, and responded to in writing where contact details are provided. We will use every complaint to review and improve our practices.",
+      "easyRead": "We will always take your complaint seriously. We will never punish you for making a complaint. We will use complaints to get better."
+    },
+    {
+      "heading": "Who can make a complaint",
+      "body": "Any participant receiving supports from us, any family member or carer acting on their behalf, any independent advocate, or any support coordinator or plan manager can make a complaint. Complaints can be made anonymously. A complaint can be made at any time — during service delivery or after it has ended.",
+      "easyRead": "You can make a complaint. A family member or advocate can make one for you. You can stay anonymous if you want."
+    },
+    {
+      "heading": "How to make a complaint",
+      "body": "Complaints can be submitted through our online complaints form, by phone, by email, in person, or in writing. Contact details are available on our website and in your service agreement. There is no required format — a brief description of what happened is sufficient to begin an investigation.",
+      "easyRead": "You can complain online, by phone, by email, or in person. You do not have to use special words. Just tell us what happened."
+    },
+    {
+      "heading": "What happens when we receive a complaint",
+      "body": "Step 1 — Receipt: The complaint is logged in our complaints register on the day it is received, assigned a unique reference number, and allocated to a staff member who was not involved in the matter being complained about. Step 2 — Acknowledgement: We will contact you within two business days to confirm receipt and identify the staff member handling your complaint. Step 3 — Investigation: The assigned staff member reviews all relevant records, interviews relevant workers, and may contact you for further information. Step 4 — Outcome: We will notify you of the outcome and any actions taken within 28 days. Complex complaints may take longer — we will advise you of any extension and the reason. Step 5 — Review: The complaint and outcome are entered into our continuous improvement register and reviewed at the monthly quality meeting.",
+      "easyRead": "When you complain: we write it down the same day, we contact you within two days, we look into what happened, we tell you what we found within 28 days, and we use it to improve."
+    },
+    {
+      "heading": "Reportable complaints",
+      "body": "Some complaints describe events that must also be reported to the NDIS Quality and Safeguards Commission as reportable incidents. Where this is the case, we will notify the Commission within the required timeframes under the NDIS Incidents and Reportable Incidents Rules 2020, and we will inform you that we have done so. Making a complaint to us does not prevent you from also reporting directly to the Commission.",
+      "easyRead": "Some complaints must also be reported to the NDIS Commission by law. We will tell you if this applies to your complaint. You can always contact the Commission yourself too."
+    },
+    {
+      "heading": "If you are not satisfied",
+      "body": "If you are not satisfied with our response or the outcome of your complaint, you can escalate to the NDIS Quality and Safeguards Commission at any time — including before our process is complete. The Commission can be contacted on 1800 035 544, via ndiscommission.gov.au, or by TTY on 133 677. You can also seek support from an independent disability advocate.",
+      "easyRead": "If you are not happy with our answer, you can go to the NDIS Commission. You do not have to wait for us to finish. Call them on 1800 035 544."
+    },
+    {
+      "heading": "Record keeping",
+      "body": "All complaints and their outcomes are recorded in our complaints register and retained for a minimum of seven years. Aggregate complaint data — with no identifying information — is reported to our leadership team quarterly and used to identify systemic patterns and opportunities for improvement.",
+      "easyRead": "We write down every complaint and keep the record for at least seven years. We use the information to find patterns and improve our services."
+    }
+  ]
+},"feedbackPolicy": {
+  "slug": "feedback-and-continuous-improvement",
+  "name": "Feedback and Continuous Improvement Policy",
+  "version": "1.0",
+  "lastReviewed": "2026-05-01",
+  "nextReviewDue": "2027-05-01",
+  "category": "Governance",
+  "easyRead": true,
+  "legalBasis": "NDIS Practice Standards v4, Outcome 2.3 — Quality Management, QI 2.3.1–2.3.3. NDIS (Provider Registration and Practice Standards) Rules 2018, Schedule 1.",
+
+  "heading": "Feedback and Continuous Improvement Policy",
+  "subheading": "How participant feedback enters our quality system and drives documented improvements.",
+  "intro": {
+    "body": "Continuous improvement is not a slogan — it is a documented, auditable process. This policy describes how feedback from participants, families, and workers is collected, recorded, reviewed, and acted upon. Every piece of feedback generates a documented response. Nothing is discarded without a recorded reason.",
+    "easyRead": "This page explains what we do with your feedback. We write it down, we look at it every month, and we use it to improve. We never ignore it."
+  },
+
+  "sections": [
+    {
+      "heading": "Sources of feedback",
+      "body": "We collect feedback from the following sources: the participant feedback form on our website, verbal feedback recorded by support workers during service delivery, feedback raised at participant support plan reviews, complaints and their outcomes, compliments received by any channel, worker suggestions submitted through our internal reporting system, and findings from internal audits and external certification audits.",
+      "easyRead": "We collect feedback from our website form, from workers, from plan reviews, and from complaints. All of it counts."
+    },
+    {
+      "heading": "How feedback is recorded",
+      "body": "All feedback — regardless of source or channel — is entered into our Continuous Improvement Register on the day it is received. Each entry records the date, the source, the category, a description of the feedback, and the name of the staff member who logged it. Feedback submitted anonymously is recorded without identifying information.",
+      "easyRead": "Every piece of feedback is written into our improvement register on the same day. We record what happened and where the feedback came from."
+    },
+    {
+      "heading": "Monthly quality review",
+      "body": "All feedback logged in the previous month is reviewed at our monthly quality meeting. The meeting is attended by the Practice Manager and relevant team leaders. For each item, the meeting determines one of three outcomes: a corrective action is created and assigned, no action is required and the reason is documented, or the item is flagged for further investigation before a decision is made. No feedback item can be closed without a documented outcome.",
+      "easyRead": "Every month we hold a meeting to look at all the feedback we received. We decide what to do about each one. We write down what we decided."
+    },
+    {
+      "heading": "Corrective actions",
+      "body": "When a corrective action is created it is assigned to a named responsible person and given a due date. Progress is tracked in the Continuous Improvement Register. Once the action is completed, the outcome is documented and the item is closed. Overdue actions are escalated to the Practice Manager and reported at the following quality meeting.",
+      "easyRead": "When we need to fix something, we give one person the job and set a deadline. We check that it gets done. If it is late, we follow it up."
+    },
+    {
+      "heading": "Quarterly analysis",
+      "body": "Each quarter, all feedback and corrective actions from the previous three months are analysed to identify patterns and systemic issues. The analysis is reported to our leadership team and informs our risk register and annual quality plan. Patterns that indicate a systemic risk are escalated immediately rather than waiting for the quarterly review.",
+      "easyRead": "Every three months we look at all the feedback together to find patterns. We use this to improve our whole service, not just individual problems."
+    },
+    {
+      "heading": "Participant involvement",
+      "body": "Participants are informed of improvements that have resulted from their feedback wherever contact details were provided and consent was given. We publish a summary of improvements driven by participant feedback in our annual quality report, available on our website.",
+      "easyRead": "If you gave us feedback and left your contact details, we will tell you what changed because of it. We also publish a yearly report about the improvements we have made."
+    },
+    {
+      "heading": "Relationship to complaints",
+      "body": "Feedback that describes a serious incident, a breach of participant rights, or conduct that may constitute a reportable incident is immediately escalated to our complaints process and, where required, to the NDIS Commission. The feedback register and the complaints register are separate systems — a complaint does not replace feedback and feedback does not replace a complaint.",
+      "easyRead": "If your feedback describes something serious, we treat it as a complaint instead. Complaints and feedback are handled separately."
+    }
+  ]
+},"workerScreeningPolicy": {
+  "slug": "worker-screening",
+  "name": "Worker Screening Policy",
+  "version": "1.0",
+  "lastReviewed": "2026-05-01",
+  "nextReviewDue": "2027-05-01",
+  "category": "Workforce",
+  "easyRead": false,
+  "legalBasis": "NDIS Worker Screening Act 2020 (Cth), s.10. NDIS Practice Standards v4, Outcome 2.6 — Human Resources, QI 2.6.1. NSW: Disability Inclusion Act 2014 (NSW).",
+
+  "heading": "Worker Screening Policy",
+  "subheading": "Our commitment to ensuring every person who works with participants holds a valid NDIS Worker Screening Check.",
+  "intro": {
+    "body": "The safety of participants is non-negotiable. This policy establishes the requirements for NDIS Worker Screening Checks across all workers, contractors, and volunteers engaged by this organisation. No person may begin work with a participant before a valid clearance is confirmed and recorded."
+  },
+
+  "sections": [
+    {
+      "heading": "Who this policy applies to",
+      "body": "This policy applies to all employees, casual workers, contractors, agency staff, students on placement, and volunteers who work in a risk-assessed role — defined as any role that involves direct contact with NDIS participants or access to their personal information. This includes support workers, coordinators, and any management staff who may have direct participant contact."
+    },
+    {
+      "heading": "The requirement",
+      "body": "Every person in a risk-assessed role must hold a current NDIS Worker Screening Check issued by the relevant state authority — in New South Wales, this is the Office of the Children's Guardian. The check must be received and recorded in our Worker Screening Register before the person commences any work with participants. Working with a participant without a current clearance on file is a breach of this policy and of the NDIS Worker Screening Act 2020."
+    },
+    {
+      "heading": "The Worker Screening Register",
+      "body": "We maintain a Worker Screening Register that records for every worker in a risk-assessed role: their full name, their Worker Screening Check number, the issuing authority, the date of issue, and the expiry date. The register is reviewed monthly. Workers whose checks are due to expire within 60 days receive a written reminder. Workers whose checks expire without renewal are immediately stood down from participant-facing roles until a new clearance is received."
+    },
+    {
+      "heading": "Agency and contractor workers",
+      "body": "When engaging agency or contractor staff, we require written confirmation from the agency or contractor that the worker holds a current NDIS Worker Screening Check before they are assigned to any participant. A copy of the clearance document is obtained and recorded in our register. We do not rely solely on agency confirmation — we verify the check independently where possible."
+    },
+    {
+      "heading": "If a check is refused or cancelled",
+      "body": "If a worker's application for a screening check is refused, or if an existing clearance is cancelled by the issuing authority, the worker is immediately stood down from all participant-facing roles. We will notify the NDIS Commission as required under the NDIS (Provider Registration and Practice Standards) Rules 2018. The matter is reviewed by the Practice Manager and documented in our incident register."
+    },
+    {
+      "heading": "Record keeping",
+      "body": "Worker Screening Register records are retained for a minimum of seven years from the date the worker's engagement ends. Access to the register is restricted to the Practice Manager and authorised management staff. Workers may request confirmation of their own check status at any time."
+    }
+  ]
+},"serviceDeliveryPolicy": {
+  "slug": "service-delivery",
+  "name": "Service Delivery Policy",
+  "version": "1.0",
+  "lastReviewed": "2026-05-01",
+  "nextReviewDue": "2027-05-01",
+  "category": "Service Delivery",
+  "easyRead": true,
+  "legalBasis": "NDIS Practice Standards v4, Outcomes 4.1–4.4 — Assessment, Planning, Delivery, and Transitions. NDIS (Provider Registration and Practice Standards) Rules 2018, r.6–r.8.",
+
+  "heading": "Service Delivery Policy",
+  "subheading": "How we assess, plan, deliver, and review your supports at every stage of your time with us.",
+  "intro": {
+    "body": "This policy describes the standards we apply to every aspect of delivering supports — from the first contact with a participant through to transitions and exits. It is grounded in the NDIS Practice Standards and reflects our commitment to person-centred, culturally safe, and rights-based service delivery.",
+    "easyRead": "This page explains how we give you support. It covers how we plan your support, how we deliver it, and what happens if you want to leave."
+  },
+
+  "sections": [
+    {
+      "heading": "Initial assessment and intake",
+      "body": "Before supports commence, we conduct an initial assessment to understand your needs, goals, preferences, cultural background, communication requirements, and any risk factors relevant to safe service delivery. The assessment is conducted with you — and with anyone you choose to involve — not about you. We will not make assumptions about your needs based on your disability or diagnosis.",
+      "easyRead": "Before we start helping you, we talk with you about what you need and what you want. You can bring anyone you trust to this meeting. We listen to you, not to assumptions about your disability."
+    },
+    {
+      "heading": "The support plan",
+      "body": "Every participant receives a written support plan that is individual to them. The plan records your goals, the supports agreed, the hours and frequency of delivery, any risk management strategies, your cultural and communication preferences, and your emergency contacts. The plan is developed with you, signed by you, and reviewed at least every twelve months or whenever your needs change significantly. You receive a copy of your plan at all times.",
+      "easyRead": "You will have your own support plan. It is written by us together with you. It explains what help you will get and what your goals are. We review it every year or sooner if things change."
+    },
+    {
+      "heading": "Service agreements",
+      "body": "We enter into a written service agreement with every participant before supports commence. The agreement specifies the supports to be delivered, the hours and frequency, the costs and how they are charged, the notice period required to end the agreement, and how you can make a complaint. Service agreements are reviewed when your plan changes or when the NDIS Pricing Arrangements are updated — typically annually in July.",
+      "easyRead": "Before we start, we sign an agreement with you. It explains what support you will get, how much it costs, and how to stop the service if you want to."
+    },
+    {
+      "heading": "Delivering supports",
+      "body": "Supports are delivered by workers who have completed induction, hold a current NDIS Worker Screening Check, and have been briefed on your individual support plan and preferences. A progress note is recorded by the support worker at the end of every shift. Notes are factual, objective, and specific to the support delivered. Participants and their nominees may request access to progress notes at any time.",
+      "easyRead": "Our workers are trained and checked before they help you. After every visit, the worker writes a note about what happened. You can ask to see these notes at any time."
+    },
+    {
+      "heading": "Responsive support",
+      "body": "If your needs change between support plan reviews, we will respond promptly. Support workers are trained to identify and escalate changed needs. Where a significant change is identified, we will initiate a support plan review within five business days and may seek input from relevant health professionals with your consent.",
+      "easyRead": "If your needs change, tell us. We will update your plan quickly. We will talk to your health team if needed and if you agree."
+    },
+    {
+      "heading": "Transitions and exits",
+      "body": "If you decide to change providers or stop receiving supports from us, we will manage the transition professionally and without delay. We will provide your incoming provider with a transition summary — with your written consent — covering your support needs, preferences, risk factors, and current health information. We will not create gaps in your supports as a result of a transition. The notice period for ending a service agreement is set out in your individual agreement — typically five business days.",
+      "easyRead": "If you want to leave, we will help you move to a new provider. We will share your information with them — but only if you say it is okay. We will make sure there is no gap in your support."
+    },
+    {
+      "heading": "Culturally safe delivery",
+      "body": "Supports are delivered in a culturally safe manner that respects your cultural background, language, religion, dietary requirements, and personal values. Where possible, we will match you with a support worker who shares your language or cultural background. All workers complete cultural safety training as part of their induction and at least every two years thereafter.",
+      "easyRead": "We respect your culture, language, and religion. We will try to match you with a worker who speaks your language. All our workers are trained in cultural safety."
+    }
+  ]
+},
+"serviceAgreementPage": {
+  "meta": {
+    "title": "Understanding Your Service Agreement",
+    "description": "What a service agreement is, what it must contain, your rights within it, and what happens when things change."
+  },
+
+  "heading": "Understanding Your Service Agreement",
+  "subheading": "Your service agreement is a legal document — but it belongs to you, not to us. This page explains what it contains, what you can expect from it, and what rights you have within it.",
+  "lastReviewed": "2026-05-01",
+  "nextReviewDue": "2027-05-01",
+  "easyRead": true,
+
+  "intro": {
+    "body": "Before we begin delivering any supports, we enter into a service agreement with you. This is a written document that describes exactly what supports you will receive, how they will be delivered, what they will cost, and what both parties — you and us — are committed to. It is not a standard form that every participant receives identically. It is individual to you.",
+    "easyRead": "Before we start helping you, we write an agreement together. It explains what help you will get, when you will get it, and how much it costs. Your agreement is different from everyone else's because your needs are different."
+  },
+
+  "sections": [
+    {
+      "id": "what-it-contains",
+      "heading": "What your service agreement contains",
+      "body": "Every service agreement we issue contains two types of clauses. The first type is fixed — these are the same for every participant because they are required by the NDIS Rules and the NDIS Practice Standards. They include your rights as a participant, our obligations under the NDIS Code of Conduct, the complaints process, the notice period for ending the agreement, and the statement that our prices comply with the NDIS Pricing Arrangements and Price Limits. These clauses cannot be removed or altered — they are protections, not negotiating points.\n\nThe second type is individual to you. These clauses describe your specific support schedule — which supports, on which days, at what times, and for how long. They record your cultural and communication preferences, any specific requirements for your support worker, the goals your supports are working toward, and any risk management protocols relevant to your individual circumstances. These sections are drafted during your intake assessment and updated whenever your circumstances change.",
+      "easyRead": "Your agreement has two parts. One part is the same for everyone — it describes your rights and our promises. The other part is just for you — it describes your support schedule, your goals, and your preferences. Both parts are important."
+    },
+    {
+      "id": "your-rights",
+      "heading": "Your rights within the agreement",
+      "body": "Signing a service agreement does not reduce your rights — it documents them. The following rights exist regardless of what the agreement says, and no clause in any service agreement can remove them.\n\nYou have the right to make a complaint at any time without it affecting your supports. You have the right to involve an advocate in any discussion about your agreement. You have the right to request a copy of your agreement at any time. You have the right to request a review of your supports if your needs change. You have the right to exit the agreement with the required notice period — typically five business days — without penalty and without your supports being withdrawn before the notice period expires. You have the right to have any changes to the agreement explained to you in plain language before you are asked to sign.",
+      "easyRead": "Signing the agreement does not take away your rights. You can still complain. You can still leave. You can bring someone to help you understand it. You can ask for a copy at any time. No one can take these rights away."
+    },
+    {
+      "id": "your-support-schedule",
+      "heading": "Your support schedule",
+      "body": "The support schedule is the most personal part of your agreement. It lists every support you have agreed to receive — for example, assistance with showering on Monday, Wednesday, and Friday mornings between 8am and 9am, meal preparation on Tuesday and Thursday afternoons, and fortnightly domestic assistance. The schedule reflects your NDIS plan, your personal preferences, and your daily life — not what is convenient for us to deliver.\n\nIf your needs change between plan reviews — for example, if you need more frequent support after a health event, or if you want to reduce supports as your independence increases — we will update your support schedule and issue a revised agreement. You will not be locked into a schedule that no longer fits your life.",
+      "easyRead": "Your support schedule lists exactly when we will help you and what we will do. For example, it might say we will help you shower on Monday, Wednesday, and Friday. If your needs change, we will update the schedule. You are not locked in."
+    },
+    {
+      "id": "pricing",
+      "heading": "Pricing and how it works",
+      "body": "Your service agreement specifies the price for each support we deliver. All prices comply with the NDIS Pricing Arrangements and Price Limits, which are set by the NDIA and updated annually — typically in July each year.\n\nWhen new pricing arrangements are released, we will issue you with an updated service agreement reflecting the new rates and ask you to sign it before the new rates take effect. We will never change the price we charge you without providing an updated agreement for your review and signature first. If you are plan managed, your plan manager will also be notified of any pricing changes.\n\nYou will never be charged more than the rate stated in your current signed agreement, and you will never be charged for a support that was not delivered.",
+      "easyRead": "The agreement tells you how much each support costs. The government sets the maximum price we can charge. Every July the prices may change. When they do, we will send you a new agreement to sign before we change anything. We will never charge you more than we agreed."
+    },
+    {
+      "id": "changing-the-agreement",
+      "heading": "When and how the agreement changes",
+      "body": "Your service agreement is a living document. It is reviewed and updated in four circumstances.\n\nFirst, when your NDIS plan is renewed. Your new plan may fund different supports or different quantities of support, and the agreement must reflect this.\n\nSecond, when your support needs change significantly. If a health event, a change in your living situation, or a shift in your goals means your current supports are no longer appropriate, we initiate a support plan review and update the agreement accordingly.\n\nThird, when the NDIS Pricing Arrangements are updated — typically every July. We will send you the updated agreement and explain what has changed before asking you to sign.\n\nFourth, at your request. If you want to add or remove a support, change your schedule, update your preferences, or amend any other part of the agreement, contact us and we will arrange a review.\n\nIn every case, you will receive a copy of the updated agreement, have the changes explained to you, and be given time to consider before signing. You can bring an advocate to any agreement review meeting.",
+      "easyRead": "Your agreement can change. It changes when your NDIS plan is renewed, when your needs change, when prices change, or when you ask us to change it. We will always explain the changes before you sign. You can bring someone to help you understand."
+    },
+    {
+      "id": "ending-the-agreement",
+      "heading": "Ending the agreement",
+      "body": "You can choose to stop receiving supports from us at any time. Your agreement sets out the required notice period — for most participants this is five business days. You do not need to give a reason. You do not need our permission. During the notice period your supports continue as normal.\n\nWhen the agreement ends, we will provide you with all your personal documentation — your support plan, your progress notes, and any other records you are entitled to. If you are moving to a new provider, we will prepare a transition summary and share it with your incoming provider with your written consent. We will not create a gap in your supports as a result of the transition.\n\nWe may also end the agreement in limited circumstances — for example, if we are no longer able to deliver the agreed supports in your area, or if continuing the agreement would place workers or participants at serious risk. In these circumstances we will give you the maximum possible notice, support your transition to a new provider, and never leave you without supports.",
+      "easyRead": "You can leave at any time. You usually need to give us five days notice. You do not need to give a reason. We will give you all your documents. We will help you move to a new provider if you want. We will make sure you are not left without support."
+    },
+    {
+      "id": "signing",
+      "heading": "Signing the agreement",
+      "body": "Before you sign, you have the right to read the agreement carefully, ask questions about anything you do not understand, and take time to consider. We will not pressure you to sign immediately.\n\nYou can sign in person, by email, or through our digital signing process. If you have a legal guardian or nominee who is authorised to sign on your behalf, they may do so — but we will always ensure you have been involved in the discussion and that the agreement reflects your preferences, not just those of your nominee.\n\nIf you would like an advocate or support coordinator to be present when you review and sign your agreement, we welcome this. If you need the agreement in a different format — large print, in another language, or in Easy Read — ask us and we will arrange it before you are asked to sign.",
+      "easyRead": "You do not have to sign straight away. Read it first. Ask questions. Bring someone to help you. We can give you the agreement in your language or in Easy Read. Only sign when you are ready and happy with it."
+    },
+    {
+      "id": "questions",
+      "heading": "Questions about your agreement",
+      "body": "If you have any questions about your service agreement — before, during, or after signing — contact us directly. If you feel that your agreement does not reflect what was discussed, or that you were pressured to sign something you did not understand, you have the right to make a complaint and to seek independent advocacy support.",
+      "easyRead": "If you have questions, call us or email us. If something is wrong with your agreement, you can make a complaint. You can also get a free advocate to help you."
+    }
+  ],
+
+  "relatedLinks": {
+    "heading": "Related pages",
+    "links": [
+      {
+        "label": "Your rights as a participant",
+        "href": "/your-rights"
+      },
+      {
+        "label": "How to make a complaint",
+        "href": "/complaints"
+      },
+      {
+        "label": "Our services and pricing",
+        "href": "/#services"
+      },
+      {
+        "label": "Privacy policy",
+        "href": "/policies/privacy"
+      }
+    ]
+  },
+
+  "advocacy": {
+    "heading": "Want independent help understanding your agreement?",
+    "body": "A free disability advocate can review your service agreement with you, explain your rights, and attend signing meetings. They work only for you.",
+    "links": [
+      {
+
+        "label": "Disability Advocacy NSW",
+        "href": "https://www.disabilityadvocacynsw.org.au",
+        "external": true
+      },
+      {
+        "label": "ADACAS — Advocacy for Disability Access",
+        "href": "https://www.adacas.org.au",
+        "external": true
+      }
+    ]
+  },
+
+  "legalBasis": "NDIS (Provider Registration and Practice Standards) Rules 2018, r.6 — service agreement requirements. NDIS Practice Standards v4, Outcomes 4.1–4.4. NDIS Pricing Arrangements and Price Limits (NDIA, updated annually)."
+},
+"workerScreeningPage": {
+  "meta": {
+    "title": "Worker Screening — Our Commitment to Your Safety",
+    "description": "How we screen every support worker before they begin working with participants, and what the NDIS Worker Screening Check involves."
+  },
+
+  "heading": "Worker Screening",
+  "subheading": "Every person who enters your home to deliver supports has been screened, checked, and cleared before their first shift. This page explains what that means and what you can do to verify it.",
+  "lastReviewed": "2026-05-01",
+  "nextReviewDue": "2027-05-01",
+  "easyRead": false,
+
+  "commitment": {
+    "heading": "Our commitment",
+    "body": "No support worker, contractor, agency staff member, student on placement, or volunteer employed by this organisation may begin working with a participant until we have received and recorded a valid NDIS Worker Screening clearance for that person. This is not a target or an aspiration — it is an unconditional requirement. There are no exceptions.",
+    "badge": "All workers cleared before first shift"
+  },
+
+  "sections": [
+    {
+      "id": "what-is-the-check",
+      "heading": "What is the NDIS Worker Screening Check?",
+      "body": "The NDIS Worker Screening Check is a nationally consistent assessment conducted by the relevant state or territory authority. In New South Wales, it is administered by the Office of the Children's Guardian.\n\nThe check is not simply a criminal history check. It assesses a broader set of risk-relevant information including criminal history, apprehended violence orders, relevant disciplinary findings from previous disability or child-related employment, information held by police and courts, and any other information the issuing authority considers relevant to assessing whether a person poses a risk to people with disability.\n\nA clearance is valid for five years from the date of issue and is portable — a worker who holds a current clearance can use it across multiple NDIS employers without reapplying. However, the clearance can be cancelled at any time if new risk-relevant information comes to the issuing authority's attention."
+    },
+    {
+      "id": "who-it-applies-to",
+      "heading": "Who is required to hold a check?",
+      "body": "The NDIS Worker Screening Act 2020 requires every person in a risk-assessed role with an NDIS registered provider to hold a current clearance. A risk-assessed role is any role that involves direct contact with NDIS participants or access to their personal information.\n\nFor our organisation, this means every support worker regardless of whether they are a permanent employee, casual worker, contractor, or agency staff member. It also applies to coordinators, supervisors, and any management staff who have direct participant contact. We apply this requirement to students on placement and volunteers as well, even where the Act does not strictly require it, because we believe the safety of participants is not a matter for minimum compliance."
+    },
+    {
+      "id": "our-process",
+      "heading": "How we manage screening",
+      "body": "We maintain a Worker Screening Register that records every worker's clearance number, the date it was issued, and the date it expires. The register is reviewed every month.\n\nWorkers whose clearances are due to expire within 60 days receive a written reminder and are required to submit a renewal application before the expiry date. If a clearance expires without renewal, the worker is immediately stood down from all participant-facing roles until a new clearance is received and recorded.\n\nWhen we engage agency or contractor staff, we require written confirmation of their clearance status before they are assigned to any participant and record a copy of their clearance in our register."
+    },
+    {
+      "id": "induction-and-training",
+      "heading": "Induction and training: the clearance is a floor, not a ceiling",
+      "body": "A Worker Screening clearance confirms that a person is not prohibited from working with NDIS participants. It is a necessary condition for employment — but it is not sufficient on its own.\n\nBefore beginning work with any participant, every support worker completes a structured induction that covers your individual support plan and preferences, your cultural and communication requirements, any risk management protocols relevant to your circumstances, emergency procedures, mandatory reporting obligations, and the NDIS Code of Conduct.\n\nWorkers also complete mandatory training modules before their first shift: First Aid and CPR certification, manual handling and safe work practices, safeguarding and abuse prevention, and cultural safety. All training is refreshed at a minimum of every two years. Workers supporting participants with specific clinical needs — such as medication administration — complete additional competency-based training approved by the relevant health authority.\n\nWhen you meet your support worker for the first time, they already know your name, your preferences, and what you have asked for. That is by design."
+    },
+    {
+      "id": "your-right-to-verify",
+      "heading": "Your right to verify",
+      "body": "You have the right to ask any support worker assigned to you for their NDIS Worker Screening clearance number before they begin supporting you. This is your right under the NDIS Practice Standards and we will never instruct a worker to decline this request.\n\nYou can also verify a clearance independently. The NDIS Commission maintains a Worker Screening Database where clearance details can be confirmed. In New South Wales, the Office of the Children's Guardian is the issuing authority and can confirm the status of any clearance on request.\n\nIf you would like us to confirm in writing that a specific worker holds a current clearance before they begin supporting you, contact us and we will provide written confirmation within one business day.",
+      "cta": {
+        "label": "Contact us to request written confirmation",
+        "href": "/contact"
+      }
+    }
+  ],
+
+  "verifyCallout": {
+    "heading": "Want to confirm a worker's clearance?",
+    "body": "We will provide written confirmation within one business day. You do not need a reason — this is your right.",
+    "phoneLabel": "Call us",
+    "emailLabel": "Email us"
+  },
+
+  "legalBasis": "NDIS Worker Screening Act 2020 (Cth), s.10. NDIS (Provider Registration and Practice Standards) Rules 2018. NDIS Practice Standards v4, Outcome 2.6 — Human Resources, QI 2.6.1."
+},
+"dailyPersonalCare": {
+  "slug": "daily-personal-care",
+  "name": "Daily Personal Care",
+  "tagline": "Respectful, person-centred support with the personal tasks that make each day work.",
+  "image": {
+    "src": "/images/services/daily-personal-care.jpg",
+    "alt": "Warm morning light in a comfortable home bathroom"
+  },
+  "lineItem": "01_011_0107_1_1",
+  "registrationGroup": "0107 — Assistance with Daily Personal Activities",
+  "easyRead": true,
+
+  "intro": {
+    "body": "Daily personal care covers the support you need with bathing, showering, dressing, grooming, and personal hygiene. For many participants, these are the supports that make the rest of the day possible — and they are the supports where the relationship between participant and worker matters most. We take that seriously.",
+    "easyRead": "We help you wash, dress, and look after yourself each day. This is called personal care. The worker who helps you will treat you with respect at all times."
+  },
+
+  "sections": [
+    {
+      "id": "what-is-included",
+      "heading": "What is included",
+      "body": "Personal care support can include assistance with showering or bathing, hair washing and drying, oral hygiene including teeth brushing and denture care, shaving and skin care, dressing and undressing, applying prescribed creams or compression garments, toileting and continence management, positioning and transfers where relevant, and grooming tasks such as nail care and hair styling.\n\nThe specific supports you receive are determined by your NDIS plan and your individual support plan — not by a fixed menu. If a task is part of your daily routine and relates to your personal hygiene or presentation, we will discuss whether we can support it.",
+      "easyRead": "We can help you with:\n\nShowering or bathing\n\nWashing and drying your hair\n\nBrushing your teeth\n\nShaving or skin care\n\nGetting dressed and undressed\n\nGoing to the toilet\n\nAny other personal care that is in your plan"
+    },
+    {
+      "id": "how-it-works",
+      "heading": "How it works",
+      "body": "Personal care is delivered in your home at times that suit your routine — not ours. Your support schedule is built around when you need support, not when it is convenient for us to provide it. Morning routines, evening routines, or support at other times of day are all available depending on your plan.\n\nYour worker will always knock and wait before entering any room. They will explain what they are going to do before doing it and ask your permission. You can change your mind at any point. Personal care is delivered at your pace — there is no rushing.\n\nIf you have a preference for the gender of your support worker, a preference for a worker who speaks your language, or any other preference that affects how personal care is delivered, tell us during your intake assessment and we will do everything we can to accommodate it.",
+      "easyRead": "We come to your home at the time that works for you. Your worker will always ask before they do anything. You can say no or stop at any time. If you want a worker who is a woman, or who speaks your language, tell us and we will try to arrange this."
+    },
+    {
+      "id": "dignity",
+      "heading": "Dignity is not optional",
+      "body": "Personal care involves intimate physical assistance. We treat the trust that places in us with the seriousness it deserves.\n\nEvery support worker who delivers personal care has completed training in dignity, consent, and person-centred practice before their first shift. They understand that personal care is done with you, not to you. They understand that your body belongs to you and that your comfort and consent govern every interaction.\n\nIf at any point you feel your dignity has not been respected during personal care — whether by a specific worker or because of how a support was delivered — you have the right to make a complaint and to request a different worker immediately.",
+      "easyRead": "Personal care is private and personal. Our workers are trained to be respectful. They will always ask before they touch anything. If you are not comfortable, you can say so and we will listen. If something goes wrong, you can make a complaint."
+    },
+    {
+      "id": "medication",
+      "heading": "Medication support during personal care",
+      "body": "If your morning or evening routine includes medication, your support worker can prompt you to take it and assist with opening packaging where this is included in your plan. Administration of medication — for example, applying prescribed skin creams, managing a medication blister pack, or more complex medication tasks — requires specific training and an individual medication management plan. If you need this level of support, discuss it with us during your intake assessment.",
+      "easyRead": "If you take medicine in the morning, we can remind you. Some workers can also help you take your medicine if they have the right training. Tell us during your first meeting if you need this."
+    }
+  ],
+
+  "relatedServices": [
+    "meal-preparation",
+    "medication-support",
+    "domestic-assistance"
+  ]
+},
+"mealPreparation": {
+  "slug": "meal-preparation",
+  "name": "Meal Preparation and Eating",
+  "tagline": "Nutritious, culturally appropriate meals — prepared in your kitchen, to your taste.",
+  "image": {
+    "src": "/images/services/meal-preparation.jpg",
+    "alt": "A warm, well-lit home kitchen with fresh ingredients on the bench"
+  },
+  "lineItem": "01_011_0107_1_1",
+  "registrationGroup": "0107 — Assistance with Daily Personal Activities",
+  "easyRead": true,
+
+  "intro": {
+    "body": "Meal preparation support covers planning, preparing, and where needed assisting with eating meals that are nutritious, safe, and meaningful to you. Food is not just fuel — it is culture, routine, comfort, and pleasure. We approach meal preparation with that understanding.",
+    "easyRead": "We help you plan and cook meals. We respect the foods that are important to you and your culture. Good food matters and we take it seriously."
+  },
+
+  "sections": [
+    {
+      "id": "what-is-included",
+      "heading": "What is included",
+      "body": "Meal preparation support can include planning a weekly menu that reflects your nutritional needs, cultural preferences, and dietary requirements, assistance with grocery lists and shopping, preparing and cooking meals in your kitchen, plating and serving meals, assistance with eating where this is required, clearing up after meals, and safe storage of leftovers and perishables.\n\nIf you have specific dietary requirements — for medical reasons such as diabetes or dysphagia, for cultural or religious reasons such as halal, vegetarian, or fasting observance, or simply personal preference — your support plan records these and your worker is briefed on them before their first shift.",
+      "easyRead": "We can help you:\n\nPlan your meals for the week\n\nMake a shopping list\n\nCook meals in your kitchen\n\nEat your meal if you need help\n\nClean up after eating\n\nWe will cook the foods you like and that your religion or culture requires."
+    },
+    {
+      "id": "cultural-food",
+      "heading": "Cultural and religious food requirements",
+      "body": "Food is one of the most personal expressions of cultural identity. We do not provide a default menu and adapt it — we build your meal support around your preferences from the beginning.\n\nIf your meals must be halal, we work with halal-certified ingredients. If you observe Hindu or Jain dietary requirements, we respect them. If your cultural tradition involves specific preparation methods, meal times, or the significance of particular foods, we want to know so we can support them properly.\n\nIf you would prefer a support worker who is familiar with your culinary tradition, tell us during your intake assessment and we will do our best to arrange it.",
+      "easyRead": "We cook the foods that matter to you. If your religion says no pork, we will not cook pork. If you have special food rules, tell us and we will follow them. We want your meals to feel right for you."
+    },
+    {
+      "id": "nutrition-and-safety",
+      "heading": "Nutrition and food safety",
+      "body": "Support workers delivering meal preparation are trained in basic food safety and hygiene, appropriate storage of different food types, and recognition of common dietary needs and restrictions. They are not dietitians — if you have complex nutritional requirements that require clinical input, we will work with your allied health team and ensure any dietary plans from your dietitian are followed accurately in your kitchen.\n\nIf you have dysphagia or other swallowing difficulties, meal preparation support must be delivered in accordance with a speech pathologist's recommendations. This is a safety requirement — we will not make assumptions about texture modification or thickened fluids without written clinical guidance.",
+      "easyRead": "Our workers know how to cook safely and hygienically. If a doctor or dietitian has given you special food rules for health reasons, we will follow those rules exactly. If you have trouble swallowing, we will follow your speech pathologist's instructions."
+    },
+    {
+      "id": "assistance-eating",
+      "heading": "Assistance with eating",
+      "body": "If your supports include assistance with eating — for example, because of reduced hand or arm function, fatigue, or other reasons — this is delivered with the same commitment to dignity as personal care. You choose the pace. You decide what you eat and in what order. Assistance with eating is support, not control.",
+      "easyRead": "If you need help eating your meal, we can help. You decide what you eat and how fast. We follow your lead."
+    }
+  ],
+
+  "relatedServices": [
+    "daily-personal-care",
+    "domestic-assistance",
+    "medication-support"
+  ]
+},
+"domesticAssistance": {
+  "slug": "domestic-assistance",
+  "name": "Domestic Assistance",
+  "tagline": "A clean, safe, comfortable home — maintained to your standard, not ours.",
+  "image": {
+    "src": "/images/services/domestic-assistance.jpg",
+    "alt": "A bright, tidy living room in a comfortable home"
+  },
+  "lineItem": "01_019_0107_1_1",
+  "registrationGroup": "0107 — Assistance with Daily Personal Activities",
+  "easyRead": true,
+
+  "intro": {
+    "body": "Domestic assistance covers the household tasks that keep your home clean, safe, and functional. For many participants, the inability to manage these tasks independently — not through lack of will but because of the impact of disability — affects their health, their comfort, and their sense of home. We deliver domestic assistance in a way that supports your independence rather than replacing it.",
+    "easyRead": "We help keep your home clean and safe. This is called domestic assistance. We help you with cleaning and other household tasks so you can live comfortably."
+  },
+
+  "sections": [
+    {
+      "id": "what-is-included",
+      "heading": "What is included",
+      "body": "Domestic assistance can include vacuuming and mopping floors, cleaning bathrooms and toilets, cleaning kitchens including benchtops, sinks, and appliances, dusting and tidying living areas, washing, drying, folding, and putting away laundry, changing and laundering bed linen, taking out rubbish and recycling, and general home organisation.\n\nDomestic assistance is focused on the areas of your home you use regularly and on tasks that are directly related to your health, safety, and daily functioning. It does not include gardening, external property maintenance, or tasks that would typically be performed by a tradesperson.",
+      "easyRead": "We can help you with:\n\nVacuuming and mopping\n\nCleaning the bathroom and toilet\n\nCleaning the kitchen\n\nWashing and folding clothes\n\nChanging your bed sheets\n\nTaking out the rubbish\n\nTidying up"
+    },
+    {
+      "id": "your-home-your-standards",
+      "heading": "Your home, your standards",
+      "body": "We clean your home to your standard — not to a generic checklist. Some participants want a specific brand of cleaning product used. Some have particular ways they like their laundry folded or their kitchen organised. Some have cultural practices around the home that affect how certain tasks are performed — for example, specific areas of the home that require particular care, or shoes not being worn inside.\n\nAll of these preferences are recorded in your support plan and communicated to your worker. Your home is your space. We are guests in it.",
+      "easyRead": "We clean your home the way you like it. If you want us to use a certain product, we will. If you have rules about your home — like no shoes inside — we will follow them. It is your home and we respect that."
+    },
+    {
+      "id": "independence",
+      "heading": "Supporting independence, not dependency",
+      "body": "Domestic assistance is support with tasks you cannot do independently because of your disability — it is not a cleaning service that replaces tasks you can and want to do yourself. If you can and want to fold your own laundry but cannot carry the basket, we carry the basket. If you enjoy washing dishes but cannot mop the floor, we mop the floor.\n\nYour support plan identifies which tasks require support and at what level. As your independence changes — in either direction — we adjust the support accordingly. The goal is always the level of support that enables you to live as you choose, not the maximum support we can provide.",
+      "easyRead": "We help with the tasks you cannot do because of your disability. If you can do some things yourself, we let you. We only help where you need it. If your needs change, we change the support."
+    },
+    {
+      "id": "home-safety",
+      "heading": "Home safety",
+      "body": "During domestic assistance visits, support workers are trained to notice and report any home safety concerns — a loose handrail, a trip hazard, a faulty appliance, or any change in the home environment that could affect your safety. These observations are recorded in the shift note and reported to the coordinator. We do not fix safety hazards without your knowledge and consent — we report them to you and, where relevant, to your support coordinator so that the right response can be arranged.",
+      "easyRead": "While we clean, we also look out for safety problems in your home. If we see something that could hurt you, we will tell you and your coordinator. We will not fix things without asking you first."
+    }
+  ],
+
+  "relatedServices": [
+    "daily-personal-care",
+    "meal-preparation",
+    "medication-support"
+  ]
+},
+"medicationSupport": {
+  "slug": "medication-support",
+  "name": "Medication Support",
+  "tagline": "Safe, documented, and individually planned medication assistance for participants in their own home.",
+  "image": {
+    "src": "/images/services/medication-support.jpg",
+    "alt": "A calm, well-lit home environment with a organised medication schedule on a bench"
+  },
+  "lineItem": "01_011_0107_1_1",
+  "registrationGroup": "0107 — Assistance with Daily Personal Activities",
+  "easyRead": true,
+
+  "intro": {
+    "body": "Medication support covers prompting, assisting with, and in some cases administering medications as part of a participant's daily routine. It is one of the most closely regulated supports we deliver — and one where the consequences of error are most serious. We deliver it carefully, consistently, and only within a framework that keeps you safe.",
+    "easyRead": "We help you with your medicine. This might mean reminding you to take it, helping you open the packet, or giving it to you if a worker has the right training. We take this very seriously because medicine is important."
+  },
+
+  "sections": [
+    {
+      "id": "levels-of-support",
+      "heading": "The three levels of medication support",
+      "body": "Not all medication support is the same. There are three distinct levels and each has different requirements.\n\nLevel 1 — Prompting: the support worker reminds you that it is time to take your medication. They do not handle the medication. This can be delivered by any trained support worker.\n\nLevel 2 — Assistance: the support worker assists you to take your medication — for example, opening child-proof packaging, extracting tablets from a blister pack, or handing you a glass of water. The participant takes the medication themselves. This requires a support worker who has completed medication assistance training.\n\nLevel 3 — Administration: the support worker actively administers the medication — for example, applying a prescribed cream, managing enteral feeding, or other tasks where the worker physically delivers the medication rather than assisting the participant to take it themselves. This requires specific clinical training, a signed off competency assessment by a qualified health practitioner, and an individual medication management plan.",
+      "easyRead": "There are three ways we can help with medicine:\n\nReminding you — we tell you it is time to take your medicine\n\nHelping you — we help you open the packet or hand you the medicine to take yourself\n\nGiving it to you — a specially trained worker gives you the medicine directly\n\nNot every worker can do all three. We make sure the right worker helps you."
+    },
+    {
+      "id": "medication-management-plan",
+      "heading": "Your medication management plan",
+      "body": "Before any medication support is delivered, we develop an individual medication management plan in consultation with you and your healthcare team — your GP, specialist, or pharmacist as relevant. The plan records every medication you take, the dose, the time, the route of administration, any known interactions or side effects to monitor, and what to do if a dose is missed or an error occurs.\n\nThe plan is signed by the prescribing health professional and reviewed whenever your medications change. No support worker delivers medication support without a current, signed plan on file. The plan is stored securely and accessible to the support workers assigned to you — and to no one else.",
+      "easyRead": "Before we help with your medicine, we write a plan with your doctor. The plan lists all your medicines, when you take them, and how much. The worker follows this plan every time. If your medicine changes, we update the plan."
+    },
+    {
+      "id": "medication-record",
+      "heading": "The medication administration record",
+      "body": "Every time medication support is delivered, the support worker records it in a Medication Administration Record — known as a MAR. The record shows the date, the time, the medication, the dose, the worker's initials, and any exceptions or observations.\n\nThe MAR is a legal document. It cannot be altered after the fact. If a dose is missed, the reason is recorded. If a participant refuses medication, this is recorded without judgement. If an error occurs, it is recorded immediately and reported through our incident management process — including to the NDIS Commission if the error meets the threshold for a reportable incident.",
+      "easyRead": "Every time we give you medicine, we write it down. We record what medicine, how much, and when. If something goes wrong — like a missed dose — we write that down too and tell the right people."
+    },
+    {
+      "id": "errors-and-incidents",
+      "heading": "What happens if something goes wrong",
+      "body": "Medication errors are taken seriously. If a worker makes an error — administering the wrong dose, giving medication at the wrong time, or missing a dose — the following steps occur immediately: the worker notifies their supervisor, the incident is recorded in our incident register, you and your emergency contact are notified, and where clinically appropriate the worker contacts your GP or a health professional for guidance.\n\nIf the error meets the threshold for a reportable incident under the NDIS Incidents and Reportable Incidents Rules 2020, we notify the NDIS Commission within 24 hours. You are kept informed throughout.\n\nWe do not minimise medication errors. The correct response to an error is transparency, immediate action, and a review of the process that allowed it to occur.",
+      "easyRead": "If something goes wrong with your medicine, we tell you straight away. We also tell your doctor if needed. We write it down and report it to the NDIS Commission if the law requires it. We do not hide mistakes."
+    },
+    {
+      "id": "worker-competency",
+      "heading": "Worker qualification and competency",
+      "body": "Only workers who have completed specific medication training and been assessed as competent can deliver medication assistance or administration. Competency is assessed by a qualified health professional — not by a manager or colleague — and is recorded in the worker's personnel file.\n\nCompetency is assessed for each level of support and, for Level 3 administration, is specific to the individual participant and their medication type. A worker assessed as competent to prompt medication is not thereby qualified to administer it. A worker qualified to administer oral medication is not thereby qualified to manage enteral feeding without specific additional training.\n\nYou can ask us to confirm the specific qualification of any worker assigned to deliver medication support to you.",
+      "easyRead": "Workers who help with medicine must be trained and tested. A health professional checks that they know what they are doing. Different medicines need different training. You can always ask us what training your worker has."
+    }
+  ],
+
+  "relatedServices": [
+    "daily-personal-care",
+    "meal-preparation",
+    "domestic-assistance"
+  ]
+},
+    "lang": {
+    "choose": "Choose language",
+    "en": "English",
+    "ar": "Arabic",
+    "bn": "Bengali",
+    "hi": "Hindi"
+  }
+}
+

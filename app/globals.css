@@ -14,14 +14,59 @@
   }
 }
 
+html {
+  --font-scale: 1;
+  font-size: calc(1rem * var(--font-scale));
+}
+
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+/* ── Accessibility class overrides ─────────────────────────────────────────
+   Applied to <html> by AccessibilityContext. The FOUC script in layout.tsx
+   sets these synchronously before React hydrates.
+   ────────────────────────────────────────────────────────────────────────── */
+
+/* High contrast: invert to a black background with white text and a yellow
+   focus/link colour — matches WCAG AAA contrast ratios. */
+.high-contrast body {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+.high-contrast nav {
+  background-color: #000 !important;
+  border-color: #fff !important;
+}
+.high-contrast a,
+.high-contrast button {
+  color: #ffff00;
+}
+
+/* Dyslexia-friendly: switch to a plain sans-serif and open up tracking/leading.
+   OpenDyslexic would be ideal here — a future enhancement. */
+.dyslexia-font body,
+.dyslexia-font * {
+  font-family: Arial, Helvetica, sans-serif !important;
+  letter-spacing: 0.05em;
+  word-spacing: 0.16em;
+  line-height: 1.8;
+}
+
+/* Reduce motion: collapse all animations and transitions to near-zero so the
+   page is usable for people with vestibular disorders. */
+.reduce-motion *,
+.reduce-motion *::before,
+.reduce-motion *::after {
+  animation-duration: 0.001ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.001ms !important;
+  scroll-behavior: auto !important;
 }
