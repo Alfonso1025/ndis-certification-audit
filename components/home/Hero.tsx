@@ -2,6 +2,7 @@
 
 import { Fragment } from "react";
 import { useLanguage } from "@/context/LanguageContext";
+import HeroIllustration from "@/components/home/HeroIllustration";
 
 export default function Hero() {
   const { t, tArray } = useLanguage();
@@ -50,12 +51,10 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Right column — placeholder, replaced by illustration later */}
+          {/* Right column — hero illustration */}
           <div className="hidden md:flex items-center justify-center">
-            <div className="w-full max-w-lg aspect-[4/3] rounded-3xl bg-white/[0.04] border border-white/10 flex items-center justify-center">
-              <span className="text-white/15 text-sm font-body select-none" aria-hidden="true">
-                Illustration
-              </span>
+            <div className="w-full max-w-lg aspect-[4/3] rounded-3xl overflow-hidden">
+              <HeroIllustration />
             </div>
           </div>
         </div>

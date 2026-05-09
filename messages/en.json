@@ -27,7 +27,9 @@
         {
           "id": "daily-personal-care",
           "title": "Daily Personal Care",
-          "imageAlt": "A support worker helping a person with daily personal care",
+          "category": "Daily support",
+          "icon": "IconUserHeart",
+          "colour": "teal",
           "description": "Respectful, person-centred assistance with bathing, showering, dressing, grooming, and personal hygiene. We support your independence by helping only where you need it, at the level you choose.",
           "easyRead": "We help you wash, dress, and look after yourself each day. You decide how much help you want.",
           "lineItem": "Support Item 01_011_0107_1_1",
@@ -37,7 +39,9 @@
         {
           "id": "meal-preparation",
           "title": "Meal Preparation and Eating",
-          "imageAlt": "A support worker helping prepare a nutritious meal",
+          "category": "Daily support",
+          "icon": "IconChefHat",
+          "colour": "amber",
           "description": "Support with planning, preparing, and eating nutritious meals that reflect your cultural preferences and dietary needs. Includes grocery assistance and kitchen safety support.",
           "easyRead": "We help you cook meals you enjoy. We respect the foods that are important to you and your culture.",
           "lineItem": "Support Item 01_011_0107_1_1",
@@ -47,7 +51,9 @@
         {
           "id": "domestic-assistance",
           "title": "Domestic Assistance",
-          "imageAlt": "A support worker helping maintain a clean and tidy home",
+          "category": "Home support",
+          "icon": "IconHome2",
+          "colour": "navy",
           "description": "Help maintaining a clean, safe, and comfortable home environment. Includes cleaning, laundry, tidying, and home organisation — so your home supports your health and wellbeing.",
           "easyRead": "We help keep your home clean and safe. This includes cleaning, washing clothes, and tidying up.",
           "lineItem": "Support Item 01_019_0107_1_1",
@@ -57,7 +63,9 @@
         {
           "id": "medication-support",
           "title": "Medication Support",
-          "imageAlt": "A support worker assisting with medication management",
+          "category": "Clinical support",
+          "icon": "IconPill",
+          "colour": "coral",
           "description": "Trained support workers assist with medication prompting and, where qualified, medication administration. All medication support follows an individual medication management plan developed with your healthcare team.",
           "easyRead": "We remind you to take your medicine. If needed, a trained worker can help you take it safely.",
           "lineItem": "Support Item 01_011_0107_1_1",
